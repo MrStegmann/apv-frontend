@@ -6,7 +6,7 @@ import { PatientsProvider } from './context/PatientsProvider';
 import AuthLayout from './layout/AuthLayout';
 import SecureRoute from './layout/SecureRoute';
 
-import Login from './pages/login';
+import Login from './pages/Login';
 import Register from './pages/Register';
 import ForgotPass from './pages/ForgotPass';
 import ConfirmUser from './pages/ConfirmUser';
